@@ -16,4 +16,4 @@ pip3 install -r requirements.txt
 python3 graphql-introspection-analyzer <introspection file>
 ```
 
-<img src="https://github.com/gwen001/graphql-introspection-analyzer/raw/master/preview.png">
+<img src="https://raw.githubusercontent.com/gwen001/graphql-introspection-analyzer/main/preview.png">
