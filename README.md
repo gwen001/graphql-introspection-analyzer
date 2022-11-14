@@ -2,15 +2,13 @@
 
 Analyze the response of the introspection query of GraphQL.
 
-
-# Install
+## Install
 
 ```
 pip3 install -r requirements.txt
 ```
 
-
-# Usage
+## Usage
 
 ```
 python3 graphql-introspection-analyzer <introspection file>
