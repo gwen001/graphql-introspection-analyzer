@@ -16,6 +16,11 @@
 
 ---
 
+## Description
+
+This Python tool displays the result of the introspection query of a graphql endpoint in a pretty way.
+So you can see all objects, queries and mutations avalaible.
+
 ## Install
 
 ```
